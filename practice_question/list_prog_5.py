@@ -1,4 +1,4 @@
-x = int(input('enter aSachi list of cricketers:'))
+x = int(input('enter a list of cricketers:'))
 print('enter the name of cricketers:')
 y = []
 for i in range(x):
