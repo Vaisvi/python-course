@@ -1,5 +1,5 @@
 # list properties
-- indexex and ordered
+- indexe and ordered
 - dynamic and hetarogenous
 - values can be duplicated
 - can be nested
